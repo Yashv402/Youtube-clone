@@ -1,10 +1,8 @@
-import React from 'react';
+import React from 'react'
 
-function App() {
+const App = () => {
   return (
-    <>
-    App
-    </>
+    <div>App</div>
   )
 }
 
